@@ -1,6 +1,6 @@
 # website-of-a-real-estate-company
  an amazing website designed for a real estate company,
-HTML and CSS used here.
+HTML and internal CSS used here.
 
 ![ss1 (2)](https://user-images.githubusercontent.com/72397485/117542733-60e14d00-b037-11eb-974a-2578899aa79c.png)
 ![ss2 (2)](https://user-images.githubusercontent.com/72397485/117542740-650d6a80-b037-11eb-9c1d-30533c668489.png)
